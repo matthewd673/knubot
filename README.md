@@ -12,7 +12,7 @@ planned for release ASAP:
 - Automatic banning __complete!__
 - Polling system _(incomplete code is still in the Poll.py and Run.py classes, but it should be harmless)_
 - Song requests and YouTube playlists _(difficult, anyone with experience using the YouTube API is encouraged to help)_
-- Shoutbox _(easy, will probably be implemented very soon)_
+- Shoutbox __complete!__
 
 ##Documentation coming soon:
 In the mean time, feel free to look through the code
