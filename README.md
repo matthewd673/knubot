@@ -10,9 +10,14 @@ planned for release ASAP:
 
 - Command system __complete!__
 - Automatic banning __complete!__
-- Polling system _(incomplete code is still in the Poll.py and Run.py classes, but it should be harmless)_
-- Song requests and YouTube playlists _(difficult, anyone with experience using the YouTube API is encouraged to help)_
+- Polling system _in active development_
+- Song requests and YouTube playlists _reading up on the API_
 - Shoutbox __complete!__
+- Raffles _not started_
+- Shoutbox queue _not started_
+- Complex commands _not started_
+- Move repos __this repo will be moved over to github.com/knubot/knubot in the coming days__
+- Official website and documentation __this will be handled over at github.com/knubot__
 
 ##Documentation coming soon:
 In the mean time, feel free to look through the code
